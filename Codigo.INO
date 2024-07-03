@@ -3,9 +3,14 @@
 //PROF.: Glauber Kiss de Souza
 //DISC.: Analizar Orient. Técnicas
 
-int soma = 13;
-int carryBit = 0;
-int nib1a,nib1b,nib1c,nib1d = 0;
+// Global Variables
+
+int soma = 13; //Variable storing the state of pin 13 (input).
+int carryBit = 0; //Variable storing the carry bit for addition.
+
+//Variables to store the states of input pins (nib1a to nib1d for the first set of 4 bits and nib2a to nib2d for the second set).
+Variables to store the results of the addition (res1a to res1d for the resulting 4 bits).
+int nib1a,nib1b,nib1c,nib1d = 0; 
 int nib2a,nib2b,nib2c,nib2d = 0;
 int res1a,res1b,res1c,res1d = 0;
 
