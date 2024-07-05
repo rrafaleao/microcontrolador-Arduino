@@ -1,4 +1,4 @@
-# microcontrolador-Arduino
+# microcontroller-arduino
 
 ## Binary Sum Software with Arduino
 This software enables binary addition operations between two sets of 4-bit inputs using an Arduino microcontroller. It utilizes digital pins for input and output, displaying the result of the addition along with the carry bit on LED indicators.
