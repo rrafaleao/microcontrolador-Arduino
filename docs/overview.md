@@ -1,3 +1,3 @@
 # Overview
 
-Esse Simulador tem como função principal fazer Soma Bínaria com consideração de CarryBit. Com uma interface feita para o usuario ter a melhor experiencia possivel.
+This software was developed to perform binary sum operations between two sets of 4 bits each. It uses an Arduino to read the states of the digital pins as input and perform the sum, displaying the result and the carry bit on output pins.
