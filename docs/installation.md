@@ -1,14 +1,14 @@
-# Instalação
+# Instalation
 
-## Instruções de instalação do Programa
+## Program installation instructions
 
-Para instalar o programa é necessario entrar nesse link [Download](https://drive.google.com/file/d/1Z7VZyOvZdzJLd6iw5qgEzVJgCi0jtN-n/view) e clicar no canto da tela, onde diz "Download".  
-Após clicar, a pasta UnoArduSimV2.9.2 será baixado, ao extrair o arquivo, abra a pasta e entre no aplicativo UnoArduSim.  
+To install the program you need to click on this link [Download](https://drive.google.com/file/d/1Z7VZyOvZdzJLd6iw5qgEzVJgCi0jtN-n/view) and click on the corner of the screen where it says "Download".  
+After clicking, the UnoArduSimV2.9.2 folder will be downloaded, when extracting the file, open the folder and enter the UnoArduSim application.
 
 
-Com isso feito, baixe esses três arquivos [BaseTrabalho2](https://drive.google.com/file/d/1CYLygVwvScgZKqvZheyym_ENEV7phnus/view),  [Configuração_ino](https://drive.google.com/file/d/16-zCZovw4tUNdjqffSn2LGmndzsU7N0U/view), 
-[PreferenciasArdu](https://drive.google.com/file/d/1JaZ7-H5F_V6U0zgu8jow1D5lMP3FnG3G/view) Com todos os arquivos baixados, crie uma pasta com o nome de sua preferencia, e coloque todos os arquivos 3 arquivos baixados.
+With that done, download these three files [BaseTrabalho2](https://drive.google.com/file/d/1CYLygVwvScgZKqvZheyym_ENEV7phnus/view), [Configuração_ino](https://drive.google.com/file/d/16-zCZovw4tUNdjqffSn2LGmndzsU7N0U/view), 
+[PreferenciasArdu](https://drive.google.com/file/d/1JaZ7-H5F_V6U0zgu8jow1D5lMP3FnG3G/view) With all the downloaded files, create a folder with the name of your preference, and place all the 3 downloaded files.
 
-## Abrindo o Projeto
+## Opening the Project
 
-Com o aplicativo aberto, clique Arquivo no canto superior esquerdo, Carregar INO ou PDE e Selecione a pasta com os três arquivos feita anteriormente.
+With the application open, click File in the top left corner, Load INO or PDE and Select the folder with the three files made previously.
